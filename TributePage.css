@@ -40,6 +40,11 @@ h3{
   margin: auto;
 }
 
+#img-caption{
+  display: flex;
+  align-items: center;
+}
+
 ul{
   text-align: left;
   margin: 0 auto;
