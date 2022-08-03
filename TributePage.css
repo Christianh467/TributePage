@@ -1,3 +1,7 @@
+html{
+  font-size: 10px;
+}
+
 body{
   font-size: 1.6rem;
   text-align: center;
@@ -11,6 +15,15 @@ main{
   background-color: lightgrey;
   min-height: 150px;
   min-width: 150px;
+}
+
+h1{
+  font-size: 4rem;
+  margin: 0;
+}
+
+h3{
+  font-size: 2rem;
 }
 
 .figureInput{
@@ -46,17 +59,4 @@ ul{
 
 .comment{
   font-style: italic;
-}
-
-h1{
-  font-size: 4rem;
-  margin: 0;
-}
-
-h3{
-  font-size: 2rem;
-}
-
-html{
-  font-size: 10px;
 }
